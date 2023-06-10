@@ -1,0 +1,12 @@
+D:\Winform\Quản Lý Nhân Viên Trong Công Ty\DAO\bin\Debug\DAO.dll
+D:\Winform\Quản Lý Nhân Viên Trong Công Ty\DAO\bin\Debug\DAO.pdb
+D:\Winform\Quản Lý Nhân Viên Trong Công Ty\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\Winform\Quản Lý Nhân Viên Trong Công Ty\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Winform\Quản Lý Nhân Viên Trong Công Ty\DAO\obj\Debug\DAO.dll
+D:\Winform\Quản Lý Nhân Viên Trong Công Ty\DAO\obj\Debug\DAO.pdb
+C:\Users\luong\Downloads\Quản Lý Nhân Viên Trong Công Ty\DAO\bin\Debug\DAO.dll
+C:\Users\luong\Downloads\Quản Lý Nhân Viên Trong Công Ty\DAO\bin\Debug\DAO.pdb
+C:\Users\luong\Downloads\Quản Lý Nhân Viên Trong Công Ty\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\luong\Downloads\Quản Lý Nhân Viên Trong Công Ty\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\luong\Downloads\Quản Lý Nhân Viên Trong Công Ty\DAO\obj\Debug\DAO.dll
+C:\Users\luong\Downloads\Quản Lý Nhân Viên Trong Công Ty\DAO\obj\Debug\DAO.pdb
